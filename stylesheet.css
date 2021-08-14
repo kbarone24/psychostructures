@@ -1,0 +1,25 @@
+.body {
+    background-color:#0D0D0D; 
+    color:#ffcf6a; 
+    margin: 15%; 
+    font-family: Trebuchet MS, sans-serif;
+    font-size: small;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+    line-height: 2;
+  } 
+
+  .quotes {
+      font-size: smaller;
+      font-style: italic;
+      text-align: center;
+  }
+
+  .content {
+      line-height: 1.3;
+  }
