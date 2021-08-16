@@ -19,11 +19,11 @@
   } 
 
   .quotes {
-      font-size: smaller;
       font-style: italic;
       text-align: left;
       color:lightgray;
       margin: 1%;
+      margin-bottom: 2%;
   }
 
   .content {
