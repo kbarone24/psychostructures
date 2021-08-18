@@ -13,7 +13,7 @@
     font-style: italic;
     text-align: left;
     color:lightgray;
-    margin-bottom: 10pts;
+    margin-bottom: 2%;
 }
 
 @media only screen and (max-width: 768px) {
@@ -21,6 +21,10 @@
     .body {
         margin-left: 6%;
         margin-right: 6%;
+    }
+
+    .quotes {
+        margin-bottom: 5%;
     }
  }
 
@@ -34,8 +38,10 @@
  
   .captions {
       color: #9d9d9d;
-      font-size: lightgray;
+      font-size: smaller;
       text-align: right;
+      margin-bottom: 3%;
+      margin-top: 1%;
   }
 
   .content {
